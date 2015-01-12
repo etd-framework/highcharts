@@ -1,0 +1,8 @@
+{
+  "name": "etdsolutions/highcharts",
+  "description": "Shim repository for Highcharts JS",
+  "homepage": "http://www.highcharts.com",
+  "require": {
+    "etdsolutions/jquery": "~1.0"
+  }
+}
